@@ -1,0 +1,24 @@
+{
+  "groups": {
+    "test": [
+      {
+        "title": "In This Darkness",
+        "url": "https://www.youtube.com/watch?v=cuSR3a409Tc",
+        "thumb": "/tmp/cuSR3a409Tc.jpg",
+        "uploader": "Clara La San"
+      },
+      {
+        "title": "EKKSTACY - i walk this earth all by myself (Official Visualizer)",
+        "url": "https://www.youtube.com/watch?v=uto7z_YEuaM",
+        "thumb": "/tmp/uto7z_YEuaM.jpg",
+        "uploader": "EKKSTACY"
+      },
+      {
+        "title": "Billie Eilish - Bored (Official Audio)",
+        "url": "https://www.youtube.com/watch?v=Q2WcdaF8uL8",
+        "thumb": "/tmp/Q2WcdaF8uL8.jpg",
+        "uploader": "Billie Eilish"
+      }
+    ]
+  }
+}
